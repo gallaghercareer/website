@@ -7,6 +7,9 @@
     .subquote {
         font-size:5px;
     }
+    body {
+        background-position: 40% 30%;
+    }
 }
 
 
